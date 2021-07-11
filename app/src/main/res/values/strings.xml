@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task Tracker</string>
+    <string name="demo_subtitle">Pending: 4, Completed: 10</string>
+    <string name="add_task">Add Task</string>
+    <string name="stats">Stats</string>
+    <string name="background_design">Background Design</string>
+    <string name="dummy_title">Title of the task</string>
+    <string name="dummy_body">This is the body of the task. a detailed descriptio of what the task is.</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="priority">Priority</string>
+    <string name="order">Order</string>
+    <string name="edit">Change</string>
+    <string name="finish">Finish</string>
+    <string name="one">1</string>
+    <string-array name="priority_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
